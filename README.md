@@ -1,4 +1,4 @@
-<img alt="banner" src="banner1.png" />
+ <img alt="banner" src="banner1.png" />
 
 ## About Me 
 
@@ -20,15 +20,32 @@ Hi there! I'm <b>Md. Kawser Hamid Bappy</b>. I'm a passionate MERN Stack Develop
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserbappy1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawserbappy1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawserbappy1&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserbappy1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawserbappy1&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawserbappy1&theme=transparent&hide_border=true) |
 
-## Contact
-Feel free to reach out to me or connect with me on [Linkedin](https://www.linkedin.com/in/kawserbappy/)
 
-You can also find me on:
 
-- **Email**: bappydu2015@gmail.com  
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/kawserbappy/)  
-- **Facebook**: [Click Here](https://www.facebook.com/mdkawserhamidbappy)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawserbappy1" alt="kawserbappy1" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawserbappy1&label=Profile%20views&color=0e75b6&style=flat" alt="kawserbappy1" /> </p>
 
-Let's connect and discuss exciting opportunities!
+<p align="left"> <a href="https://twitter.com/kawserbappy2" target="blank"><img src="https://img.shields.io/twitter/follow/kawserbappy2?logo=twitter&style=for-the-badge" alt="kawserbappy2" /></a> </p>
+
+<h3 align="left">Connect with me through Email:</h3>
+ - **Email**: bappydu2015@gmail.com
+
+
+<h3 align="left">Connect with me through Social Media:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/md_kawserhamid_bappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/md_kawserhamid_bappy" height="30" width="40" /></a>
+<a href="https://twitter.com/kawserbappy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawserbappy2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kawserbappy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawserbappy/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/mdkawserhamidbappy" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+</p>
+
+Let's connect and discuss exciting opportunities! 
+
+- 🌱 I’m currently learning **Next Js,angular**
+
+- 💬 Ask me about **React, javascript**
+
+
