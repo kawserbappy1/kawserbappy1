@@ -35,15 +35,15 @@ Hi there! I'm <b>Md. Kawser Hamid Bappy</b>. a passionate MERN Stack Developer s
 
 <h3 align="left">Connect with me through Social Media:</h3>
 <p align="left">
-<a href="https://dev.to/md_kawserhamid_bappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/md_kawserhamid_bappy" height="30" width="40" /></a>
-<a href="https://twitter.com/kawserbappy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawserbappy2" height="30" width="40" /></a>
+<a href="https://dev.to/md_kawserhamid_bappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/md_kawserhamid_bappy" height="20" width="30" /></a>
+<a href="https://twitter.com/kawserbappy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawserbappy2" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/kawserbappy" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="LinkedIn" 
-       height="30" width="40" />
+       height="20" width="30" />
 </a>
   <a href="https://www.facebook.com/mdkawserhamidbappy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="20" width="30" />
 </a>
 </p>
 
