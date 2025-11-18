@@ -1,4 +1,4 @@
-<img alt="banner" src="./assets/banner1.png" />
+<img alt="banner" src="./banner1.png" />
 
 ## About Me 
 
