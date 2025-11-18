@@ -3,6 +3,8 @@
 ## About Me 
 
 Hi there! I'm <b>Md. Kawser Hamid Bappy</b>. a passionate MERN Stack Developer specialising in Full Stack Development. I love sharing my knowledge and helping others learn. Outside of coding, I enjoy reading and writing articles. Follow me to explore my projects and insights!
+- 🌱 I’m currently learning **Next Js,angular**
+- 👷‍♀️ I'm working on Delivery delivery-related website.
 <h3>When I code, I rely on</h3>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
@@ -43,7 +45,7 @@ Hi there! I'm <b>Md. Kawser Hamid Bappy</b>. a passionate MERN Stack Developer s
 
 Let's connect and discuss exciting opportunities! 
 
-- 🌱 I’m currently learning **Next Js,angular**
+
 
 - 💬 Ask me about **React, javascript**
 
